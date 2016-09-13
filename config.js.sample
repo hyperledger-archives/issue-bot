@@ -1,0 +1,10 @@
+module.exports = {
+  'auth': {
+    'clientid': 'hyper-issue-bot',
+    'secret': 'shhhImhuntingwabbit'
+  }
+  'webhook': {
+    'path: '/webhook',
+    'secret': 'itsasecret'
+  }
+};

@@ -1,0 +1,22 @@
+{
+  "name": "hyper-issue-bot",
+  "version": "1.0.0",
+  "description": "bot that checks for new issues and redirects user to JIRA",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christo4ferris/hyper-issue-bot.git"
+  },
+  "author": "Christopher Ferris",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/christo4ferris/hyper-issue-bot/issues"
+  },
+  "homepage": "https://github.com/christo4ferris/hyper-issue-bot#readme",
+  "dependencies": {
+    "github-webhook-handler": "^0.5.0"
+  }
+}
